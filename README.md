@@ -1,0 +1,3 @@
+# rgctecnologia
+
+Descripción: proyecto RGC
